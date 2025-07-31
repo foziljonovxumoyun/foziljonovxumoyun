@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b&height=220&section=header&text=Xumoyun&fontSize=44&fontAlign=center&fontColor=white&desc=Frontend%20Developer%20|%20React%20Fan&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a,1e3a8a&height=200&section=header&text=Xumoyun&fontSize=45&fontColor=ffffff&desc=Crafting%20beautiful%20web%20experiences&descSize=18&animation=fadeIn" />
+
 
 
 <p align="center">
