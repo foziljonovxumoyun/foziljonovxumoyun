@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a,1e3a8a&height=200&section=header&text=Xumoyun&fontSize=45&fontColor=ffffff&desc=Crafting%20beautiful%20web%20experiences&descSize=18&animation=fadeIn" />
+https://capsule-render.vercel.app/api?type=slice&height=302&color=0f172a&text=Xumoyun&section=header&textBg=false&animation=fadeIn
 
 
 
