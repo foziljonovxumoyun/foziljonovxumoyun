@@ -1,4 +1,4 @@
-<img src=https://capsule-render.vercel.app/api?type=slice&height=302&color=0f172a&text=Xumoyun&section=header&textBg=false&animation=fadeIn />
+<img src=:https://capsule-render.vercel.app/api?type=slice&height=302&color=0f172a&text=Xumoyun&section=header&textBg=false&animation=fadeIn: />
 
 
 
