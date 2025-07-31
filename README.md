@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=200&section=header&text=Xumoyun&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b&height=220&section=header&text=Xumoyun&fontSize=48&fontAlign=center&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <em>Frontend Developer | React Lover | UI/UX Enthusiast</em>
